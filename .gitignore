@@ -16,9 +16,9 @@ yarn-debug.log*
 yarn-error.log*
 
 # Environment variables
-.env
-.env.test
-.env.*.local
+# .env
+# .env.test
+# .env.*.local
 
 # OS-specific files
 .DS_Store
